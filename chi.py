@@ -20,3 +20,4 @@ apprun.disp()
 apprun.clock()
 apprun.memo()
 
+globalh
