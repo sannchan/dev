@@ -17,7 +17,7 @@ else:
   
 if os.path.isdir(dirpath):
   pass
-  
+ 
 else:
   ask=messagebox.askquestion("処理後のフォルダがありません", "作成しますか？")
   

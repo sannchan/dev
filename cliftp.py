@@ -25,3 +25,9 @@ class app:
 
 run = app()
 run.get_importfile()
+
+import pathlib
+for i in range(0,10):
+    filepath = pathlib.Path("./")
+    filepath.touch(i)
+print("a")
