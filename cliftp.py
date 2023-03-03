@@ -1,27 +1,34 @@
 import ftplib
-import glob
+from ftplib import FTP
 import os
+import sys
+import glob
+import tkinter as tk
+import configparser
 
-class app:
-    def __init__(self):
-        pass
+config = configparser.ConfigParser()
+config.read('ftp_user.ini')
+ftpname = config.get('useraccount', 'name')
+ftppass = config.get('useraccount', 'password')
 
-    def get_importfile(self):
-        chkpass = os.path.isdir("/Users/sannchan/Desktop/upload")
-        while chkpass:
-            import_file = glob.glob(input("釜蓋の湯の求人情報のファイルパスを入力してください"))
-            #import_file = glob.glob('/Users/sannchan/Desktop/upload/kamabuta(ippan).png')
-            if import_file == "kamabuta(ippan).png":
-                print("success")
-            else:
-                print("ファイル名が違います。ファイル名を修正しますか？")
-                
-              # os.rename(import_file)
-                print(import_file)
-            break
-        else:
-            print("make uploaddir")
-            os.mkdir("/Users/sannchan/Desktop/upload")
+# ダウンロード先のディレクトリを作成する
+if not os.path.exists('./onions'):
+    os.makedirs('./onions')
 
-run = app()
-run.get_importfile()
+with FTP('hidakk.sakura.ne.jp') as ftp:
+    ftp.login(ftpname, ftppass)
+    print("Connect")
+    ftp.cwd('www')
+    ftp.cwd('img')
+    
+    print("chdir")
+    ftp.retrlines('LIST')
+    with open('./onions/onions.txt', 'w') as fp:
+        ftp.retrlines('LIST', lambda line: fp.write(line + '\n'))
+    print("listwrite OK")
+    
+    wget = ftp.nlst()
+    print(wget)
+    ftp.retrlines('LIST')
+    
+    ftp.quit()
