@@ -11,6 +11,8 @@ config.read('ftp_user.ini')
 ftpname = config.get('useraccount', 'name')
 ftppass = config.get('useraccount', 'password')
 
+
+
 # ダウンロード先のディレクトリを作成する
 if not os.path.exists('./onions'):
     os.makedirs('./onions')
