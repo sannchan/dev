@@ -59,6 +59,7 @@ class Ui_mainWindow(object):
         self.pushButton = QtWidgets.QPushButton(parent=self.centralwidget)
         self.pushButton.setGeometry(QtCore.QRect(10, 300, 291, 81))
         self.pushButton.setObjectName("pushButton")
+        self.pushButton.clicked.connect(self.write_php)
         self.spinBox = QtWidgets.QSpinBox(parent=self.centralwidget)
         self.spinBox.setGeometry(QtCore.QRect(360, 170, 101, 21))
         self.spinBox.setObjectName("spinBox")
@@ -219,9 +220,17 @@ class Ui_mainWindow(object):
             lines[line_number - 1] = new_content + "\n"
         with open(file_path, "w") as f:
             f.writelines(lines)
+        park1wd = self.spinBox.value()
+        park1hd = self.spinBox_2.value()
+        park2wd = self.spinBox_3.value()
+        park2hd = self.spinBox_4.value()
+        park4wd = self.spinBox_5.value()
+        park4hd = self.spinBox_6.value()
         
-        self.finished()
-    
+        text = f"パーク１ 平日{park1wd} 休日{park1hd}\n" \
+            f"パーク2 平日{park2wd} 休日{park2hd}\n" \
+                f"パーク4 平日{park4wd} 休日{park4hd}"
+        self.textBrowser_3.setText(text)
     def finished(self):
         msgBox = QMessageBox()
         msgBox.setText("Are you sure you want to quit?")
@@ -244,15 +253,5 @@ if __name__ == "__main__":
     ui = Ui_mainWindow()
     ui.setupUi(mainWindow)
     ui.get_now_index_php_disp()
-    mainWindow.show()
-    sys.exit(app.exec())
-
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    mainWindow = QtWidgets.QMainWindow()
-    ui = Ui_mainWindow()
-    ui.setupUi(mainWindow)
     mainWindow.show()
     sys.exit(app.exec())

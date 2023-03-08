@@ -21,14 +21,14 @@
         <div class="icon icon-2">
             <p class="line1">平日24時間</p>
             <p class="line2">最大</p>
-			<p class="line3">4円</p>
+			<p class="line3">50円</p>
             <br>
             <b>繰り返しあり</b>
         </div>
         <div class="icon icon-3">
             <p class="line1">休日24時間</p>
             <p class="line2">最大</p>
-			<p class="line3">4円</p>
+			<p class="line3">23円</p>
             <br>
             <b>繰り返しあり</b>
         </div>
@@ -68,14 +68,14 @@
         <div class="icon icon-2">
             <p class="line1">平日24時間</p>
             <p class="line2">最大</p>
-			<p class="line3">4円</p>
+			<p class="line3">67円</p>
             <br>
             <b>繰り返しあり</b>
         </div>
         <div class="icon icon-3">
             <p class="line1">休日24時間</p>
             <p class="line2">最大</p>
-			<p class="line3">4円</p>
+			<p class="line3">21円</p>
             <br>
             <b>繰り返しあり</b>
         </div>
@@ -122,14 +122,14 @@
         <div class="icon icon-2">
             <p class="line1">平日24時間</p>
             <p class="line2">最大</p>
-			<p class="line3">4円</p>
+			<p class="line3">23円</p>
             <br>
             <b>繰り返しあり</b>
         </div>
         <div class="icon icon-3">
             <p class="line1">休日24時間</p>
             <p class="line2">最大</p>
-			<p class="line3">4円</p>
+			<p class="line3">23円</p>
             <br>
             <b>繰り返しあり</b>
         </div>
