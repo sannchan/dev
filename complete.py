@@ -278,7 +278,7 @@ class Ui_mainWindow(object):
                     ftp.storlines(f'STOR {filename2}', f)
                 ftp.quit()
         else:
-            sys.exit()
+            return
 
     
 if __name__ == "__main__":
