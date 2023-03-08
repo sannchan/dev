@@ -1,0 +1,555 @@
+Get Remote Dir
+2023:12:56:03:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:12:56:03:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:12:56:03:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:12:56:03:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:01:31:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:01:31:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:01:31:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:01:31:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:02:21:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:02:21:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:02:21:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:02:21:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:05:04:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:05:04:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:05:04:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:05:04:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:05:41:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:05:41:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:05:41:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:05:41:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:05:47:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:05:47:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:05:47:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:05:47:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:08:47:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:08:47:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:08:47:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:08:47:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:09:46:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:09:46:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:09:46:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:09:46:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:10:01:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:10:01:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:10:01:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:10:01:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:11:09:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:11:09:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:11:09:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:11:09:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:13:47:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:13:47:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:13:47:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:13:47:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:13:57:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:13:57:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:13:57:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:13:57:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:14:25:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:14:25:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:14:25:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:14:25:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:14:38:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:14:38:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:14:38:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:14:38:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:15:16:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:15:16:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:15:16:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:15:16:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:15:29:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:15:29:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:15:29:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:15:29:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:15:45:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:15:45:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:15:45:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:15:45:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:15:56:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:15:56:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:15:56:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:15:56:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:16:15:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:16:15:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:16:15:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:16:15:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:16:56:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:16:56:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:16:56:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:16:56:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:17:22:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:17:22:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:17:22:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:17:22:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:17:42:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:17:42:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:17:42:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:17:42:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:18:47:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:18:47:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:18:47:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:18:47:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:22:19:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:22:19:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:22:19:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:22:19:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:22:38:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:22:38:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:22:38:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:22:38:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:23:15:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:23:15:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:23:15:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:23:15:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:24:05:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:24:05:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:24:05:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:24:05:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:24:37:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:24:37:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:24:37:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:24:37:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:26:02:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:26:02:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:26:02:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:26:02:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:27:26:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:27:26:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:27:26:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:27:26:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:27:45:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:27:45:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:27:45:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:27:45:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:29:04:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:29:04:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:29:04:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:29:04:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:30:16:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:30:16:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:30:16:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:30:16:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:31:02:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:31:02:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:31:02:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:31:02:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:35:27:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:35:27:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:35:27:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:35:27:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:36:13:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:36:13:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:36:13:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:36:13:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:56:28:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:56:28:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:56:28:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:56:28:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:57:52:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:57:52:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:57:52:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:57:52:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:57:58:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:57:58:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:57:58:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:57:58:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:13:59:51:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:13:59:51:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:13:59:51:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:13:59:51:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:02:27:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:02:27:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:02:27:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:02:27:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:04:02:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:04:02:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:04:02:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:04:02:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:04:54:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:04:54:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:04:54:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:04:54:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:05:08:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:05:08:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:05:08:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:05:08:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:15:58:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:15:58:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:15:58:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:15:58:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:15:59:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:15:59:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:15:59:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:15:59:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:17:25:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:17:25:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:17:25:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:17:25:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:17:59:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:17:59:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:17:59:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:17:59:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:23:48:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:23:48:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:23:48:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:23:48:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:24:04:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:24:04:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:24:04:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:24:04:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:24:58:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:24:58:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:24:58:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:24:58:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:25:12:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:25:12:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:25:12:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:25:12:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:26:50:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:26:50:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:26:50:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:26:50:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:33:14:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:33:14:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:33:14:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:33:14:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:34:21:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:34:21:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:34:21:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:34:21:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:35:27:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:35:27:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:35:27:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:35:27:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:49:05:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:49:05:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:49:05:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:49:05:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:51:06:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:51:06:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:51:06:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:51:06:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:14:58:38:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:14:58:38:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:14:58:38:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:14:58:38:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:01:42:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:01:42:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:01:42:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:01:42:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:03:04:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:03:04:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:03:04:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:03:04:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:03:45:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:03:45:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:03:45:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:03:45:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:04:06:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:04:06:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:04:06:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:04:06:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:14:36:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:14:36:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:14:36:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:14:36:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:15:59:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:15:59:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:15:59:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:15:59:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:26:37:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:26:37:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:26:37:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:26:37:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:27:46:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:27:46:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:27:46:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:27:46:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:27:52:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:27:52:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:27:52:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:27:52:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:28:24:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:28:24:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:28:24:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:28:24:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:31:29:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:31:29:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:31:29:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:31:29:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:31:56:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:31:56:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:31:56:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:31:56:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:32:54:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:32:54:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:32:54:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:32:54:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:33:56:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:33:56:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:33:56:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:33:56:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:34:41:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:34:41:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:34:41:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:34:41:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:34:51:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:34:51:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:34:51:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:34:51:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:37:35:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:37:35:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:37:35:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:37:35:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:38:36:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:38:36:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:38:36:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:38:36:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:38:48:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:38:48:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:38:48:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:38:48:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:39:26:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:39:26:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:39:26:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:39:26:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:43:39:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:43:39:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:43:39:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:43:39:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:43:51:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:43:51:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:43:51:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:43:51:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:44:08:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:44:08:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:44:08:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:44:08:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:45:53:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:45:53:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:45:53:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:45:53:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:46:24:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:46:24:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:46:24:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:46:24:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:47:47:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:47:47:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:47:47:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:47:47:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:51:42:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:51:42:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:51:42:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:51:42:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:53:30:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:53:30:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:53:30:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:53:30:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:55:06:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:55:06:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:55:06:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:55:06:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:15:56:34:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:15:56:34:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:15:56:34:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:15:56:34:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:02:39:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:02:39:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:02:39:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:02:39:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:04:33:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:04:33:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:04:33:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:04:33:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:15:51:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:15:51:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:15:51:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:15:51:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:34:09:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:34:09:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:34:09:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:34:09:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:37:11:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:37:11:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:37:11:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:37:11:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:39:52:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:39:52:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:39:52:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:39:52:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:44:43:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:44:43:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:44:43:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:44:43:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:46:06:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:46:06:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:46:06:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:46:06:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:49:41:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:49:41:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:49:41:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:49:41:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:51:41:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:51:41:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:51:41:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:51:41:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:53:57:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:53:57:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:53:57:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:53:57:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:54:56:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:54:56:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:54:56:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:54:56:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:55:11:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:55:11:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:55:11:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:55:11:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:58:44:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:58:44:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:58:44:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:58:44:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:59:04:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:59:04:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:59:04:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:59:04:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:16:59:54:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:16:59:54:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:16:59:54:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:16:59:54:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:17:00:12:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:17:00:12:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:17:00:12:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:17:00:12:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:17:03:18:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:17:03:18:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:17:03:18:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:17:03:18:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:17:12:44:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:17:12:44:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:17:12:44:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:17:12:44:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:17:12:52:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:17:12:52:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:17:12:52:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:17:12:52:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:17:16:13:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:17:16:13:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:17:16:13:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:17:16:13:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
+Get Remote Dir
+2023:17:18:37:drwx---r-x   2 hidakk   users         512 Mar  6 17:32 .
+2023:17:18:37:drwxr-xr-x  20 hidakk   users        1024 Mar  2 13:30 ..
+2023:17:18:37:-rw-r--r--   1 hidakk   users        6566 Mar  6 17:21 index.php
+2023:17:18:37:-rw----r--   1 hidakk   users        4025 Apr 21  2021 index_20230306.0ld.php
