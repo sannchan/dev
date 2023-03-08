@@ -148,7 +148,7 @@ class Ui_mainWindow(object):
         p2_line_numbers = [69, 70, 71, 76, 77, 78] # 表示する行番号をリストで指定する
         p4_line_numbers = [123, 124, 125, 130, 131, 132] # 表示する行番号をリストで指定する
 # PHPファイルを読み込む
-        with open(file_path, "r") as f:
+        with open(file_path, "r" ,encoding='utf-8') as f:
             lines = f.readlines()
         html ="西口パーク１"
         html += "<table>"
@@ -159,7 +159,7 @@ class Ui_mainWindow(object):
         html += "</table>"
         self.textBrowser_4.setHtml(html)
 
-        with open(file_path, "r") as f:
+        with open(file_path, "r",encoding='utf-8') as f:
             lines = f.readlines()
         html +="西口パーク2"
         html += "<table>"
@@ -170,7 +170,7 @@ class Ui_mainWindow(object):
         html += "</table>"
         self.textBrowser_4.setHtml(html)
         
-        with open(file_path, "r") as f:
+        with open(file_path, "r",encoding='utf-8') as f:
             lines = f.readlines()
         html +="東口パーク4"
         html += "<table>"
