@@ -1,0 +1,21 @@
+classの継承について
+
+継承とは親クラスの属性（変数、メソッドなど）を参照できるようにすること
+class mainwindow(QWidget):
+#QWidgetクラスから継承しました。
+
+
+多重継承
+class mainwindow(QWidget,QtMainWindow):
+#QWidget,QtMainWindowの二つのクラスから継承しました。
+#これは多重継承です。継承順序はMROによって決まります。C3線形化アルゴリズム
+PythonのMROについて https://fukufuku3542.hatenablog.com/entry/2020/08/24/001911
+
+親クラスのコンストラクタを呼び出す際の注意
+親クラスのコンストラクタを呼び出すには２パターンあります。
+①super().__init__()
+#これは一般的な呼び出し方です。
+#多重継承された場合でもMROによって自動的に継承順番が決まります。
+②QWidget().__init__()
+#明示的に多重継承されている際に呼び出す親クラスを宣言してます。
+#MROが効かないので絶対にやめましょう。

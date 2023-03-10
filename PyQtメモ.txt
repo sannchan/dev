@@ -1,0 +1,17 @@
+Pythonメモ
+
+基本的なこと
+
+PyQt6.Widgetモジュール
+
+QtMainWindowクラス
+メニューバーやツールバーを表示したりする。
+ちょっと難しいクラス
+
+QtWidgetsクラス
+すごい簡素なウィンドウを表示するクラス。
+
+PyQt6ではsetAlignment(Qt.AlignCenter)は使えない。setAlignment(Qt.AlignmentFlag.AlignCenter)にしなくてはいけない。
+Aligmentはオブジェクトをどっち寄せにするか
+
+
