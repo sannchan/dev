@@ -4,6 +4,9 @@ classの継承について
 class mainwindow(QWidget):
 #QWidgetクラスから継承しました。
 
+Pythonは左から順に引き渡しされる
+
+
 
 多重継承
 class mainwindow(QWidget,QtMainWindow):

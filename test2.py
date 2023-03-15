@@ -24,6 +24,9 @@ class MainWindow(QWidget):
             pixmap = QPixmap(file_path)
             self.background_label.setPixmap(pixmap)
             self.background_label.setScaledContents(True)
+            
+    def analogclock(self):
+        
 
 if __name__ == '__main__':
     app = QApplication([])
